@@ -10,6 +10,8 @@ class MainClass
 
         Console.WriteLine(myName);
 
+        Console.WriteLine("\u0023");
+
         Console.ReadKey();
     }
 }
